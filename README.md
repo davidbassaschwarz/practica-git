@@ -1,4 +1,4 @@
-# Práctica Introductoria a Git y GitHub
+# Práctica Introductoria a Git y GitHub Ramas
 
 **Autor:** David Antonio Bassa Schwarz
 
