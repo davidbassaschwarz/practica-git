@@ -1,8 +1,8 @@
 # Práctica Introductoria a Git y GitHub Ramas
 
-**Autor:** David Antonio Bassa Schwarz
+**Nombre:** David Antonio Bassa Schwarz
 
-**Fecha** 2 de Diciembre de 2025
+**Fecha:** 2 de Diciembre de 2025
 
 ## Descripción de la Práctica
 
